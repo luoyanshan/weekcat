@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>周末猫</title>
+    <description>关于写东西，东搞搞西搞搞</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 26 Dec 2017 00:48:00 +0800</pubDate>
+    <lastBuildDate>Tue, 26 Dec 2017 00:48:00 +0800</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>圣诞节快乐-Merry Christmas</title>
+        <description>&lt;p&gt;这是一份圣诞节的礼物。
+Merry Christmas&lt;/p&gt;
+&lt;object width=&quot;330&quot; height=&quot;450&quot; data=&quot;http://music.163.com/style/swf/widget.swf?
+sid=479189597&amp;amp;type=0&amp;amp;auto=0&amp;amp;width=310&amp;amp;height=430&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;/object&gt;
+
+</description>
+        <pubDate>Mon, 25 Dec 2017 20:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/12/25/Merry-Christmas/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/25/Merry-Christmas/</guid>
+        
+        <category>Christmas</category>
+        
+        <category>Gift</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
